@@ -1,0 +1,1 @@
+Hi 👋🏽, I am a self-taught Senior Front-End Engineer. I share tips to help overwhelmed junior frontend developers here
